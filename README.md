@@ -1,2 +1,4 @@
-# git__test
-The Odin Project learning Path
+# git\_\_test
+
+My first GitHub repo!
+Hello Odin!
