@@ -1,1 +1,0 @@
-This is my first a writing text in Odin Project
